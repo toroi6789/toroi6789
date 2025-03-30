@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toroi6789&label=Profile%20views&color=0e75b6&style=flat" alt="toroi6789" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toroi6789" alt="toroi6789" /></a> </p>
-
 - 🔭 I’m currently working on [Snake-AI-Explanation](link)
 
 - 🌱 I’m currently learning **Web Deployment, XAI, Unity3D**
